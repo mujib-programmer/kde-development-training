@@ -1,0 +1,12 @@
+/home/mujibur/Workspace/Learning/kde/helloworld/build/CMakeFiles/uninstall.dir
+/home/mujibur/Workspace/Learning/kde/helloworld/build/CMakeFiles/fetch-translations.dir
+/home/mujibur/Workspace/Learning/kde/helloworld/build/CMakeFiles/KF5I18n_QCH.dir
+/home/mujibur/Workspace/Learning/kde/helloworld/build/CMakeFiles/KF5CoreAddons_QCH.dir
+/home/mujibur/Workspace/Learning/kde/helloworld/build/CMakeFiles/test.dir
+/home/mujibur/Workspace/Learning/kde/helloworld/build/CMakeFiles/edit_cache.dir
+/home/mujibur/Workspace/Learning/kde/helloworld/build/CMakeFiles/rebuild_cache.dir
+/home/mujibur/Workspace/Learning/kde/helloworld/build/src/CMakeFiles/helloworld.dir
+/home/mujibur/Workspace/Learning/kde/helloworld/build/src/CMakeFiles/test.dir
+/home/mujibur/Workspace/Learning/kde/helloworld/build/src/CMakeFiles/edit_cache.dir
+/home/mujibur/Workspace/Learning/kde/helloworld/build/src/CMakeFiles/rebuild_cache.dir
+/home/mujibur/Workspace/Learning/kde/helloworld/build/src/CMakeFiles/helloworld_autogen.dir
